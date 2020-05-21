@@ -1,1 +1,1 @@
-# ImageScrambler
+# Rowing Training Logging Software
